@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "GwanhyukChoi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "![20220114](https://user-images.githubusercontent.com/76547806/149425963-441d5ab4-6872-4982-993c-af1924b5586f.jpg)"
   bio              : "프론트엔드 개발자 지먕생"
   location         : "South Korea"
   email            : "bdg06211@naver.com"
