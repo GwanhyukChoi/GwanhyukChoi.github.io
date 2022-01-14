@@ -24,7 +24,7 @@ description              : "An amazing website."
 url                      : "https://GwanhyukChoi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/main.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/main.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "GwanhyukChoi"
-  avatar           : "![20220114](https://user-images.githubusercontent.com/76547806/149425963-441d5ab4-6872-4982-993c-af1924b5586f.jpg)"
+  avatar           : "/assets/images/main.jpg"
   bio              : "프론트엔드 개발자 지먕생"
   location         : "South Korea"
   email            : "bdg06211@naver.com"
