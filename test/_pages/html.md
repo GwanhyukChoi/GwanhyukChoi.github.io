@@ -6,4 +6,4 @@ author_profile: true
 taxonomy: html
 ---
 
-좋아하는 윤동주 시인의 작품 모음입니다.
+html 관련 자료 모음입니다.
